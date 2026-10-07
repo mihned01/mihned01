@@ -227,7 +227,7 @@ The project focuses on **visual identity, layout, responsive design and presenti
 
 <br>
 
-<a href="junails.mn13.dk/">
+<a href="https://junails.mn13.dk/">
 → View website
 </a>
 
