@@ -175,7 +175,7 @@ The project combines a clean interface with interactive data visualization and a
 
 <br>
 
-<a href="finance-tracker-ca070.web.app">
+<a href="finance-tracker-ca070.web.app/">
 → View project
 </a>
 
