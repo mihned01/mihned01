@@ -38,7 +38,7 @@
 
 <br>
 
-I'm a **Multimedia Designer and aspiring Web Development student** interested in the space where visual design and technology meet.
+I'm a **Web Development student** with a background in **Multimedia Design**, interested in the intersection of frontend development, UI/UX and visual design.
 
 I enjoy transforming ideas into digital experiences — starting with **research and wireframes**, moving through **UI design and prototyping**, and eventually turning those ideas into functional websites and applications.
 
