@@ -175,7 +175,7 @@ The project combines a clean interface with interactive data visualization and a
 
 <br>
 
-<a href="https://github.com/mihned01/Finance_Tracker">
+<a href="https://github.com/mihned01/Finance_Tracker](https://finance-tracker-ca070.web.app/">
 → View project
 </a>
 
@@ -227,7 +227,7 @@ The project focuses on **visual identity, layout, responsive design and presenti
 
 <br>
 
-<a href="junails.mihaelan13.dk/">
+<a href="junails.mn13.dk/">
 → View website
 </a>
 
